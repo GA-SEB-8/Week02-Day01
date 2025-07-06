@@ -1,0 +1,60 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+callbackFunctionsContinued = new Template.Microlesson {
+  friendlyName = "Callback Functions"
+  dirName = "callback-functions-continued"
+  type = "Content"
+  videoUrl = ""
+}
+
+map = new Template.Microlesson {
+  friendlyName = " .map() "
+  dirName = "map"
+  type = "Content"
+  videoUrl = ""
+}
+
+filter = new Template.Microlesson {
+  friendlyName = " .filter() "
+  dirName = "filter"
+  type = "Content"
+  videoUrl = ""
+}
+
+findFindindex = new Template.Microlesson {
+  friendlyName = " .find()  &  .findIndex() "
+  dirName = "find-findindex"
+  type = "Content"
+  videoUrl = ""
+}
+
+someEvery = new Template.Microlesson {
+  friendlyName = " .some()  &  .every() "
+  dirName = "some-every"
+  type = "Content"
+  videoUrl = ""
+}
+
+reduce = new Template.Microlesson {
+  friendlyName = " .reduce() "
+  dirName = "reduce"
+  type = "Content"
+  videoUrl = ""
+}
+

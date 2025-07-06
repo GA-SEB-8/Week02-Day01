@@ -1,0 +1,163 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "JavaScript Array Iterator Methods",
+    "name": "javascript-array-iterator-methods",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Callback Functions",
+          "dirName": "callback-functions-continued",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .map() ",
+          "dirName": "map",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .filter() ",
+          "dirName": "filter",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .find()  &  .findIndex() ",
+          "dirName": "find-findindex",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .some()  &  .every() ",
+          "dirName": "some-every",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .reduce() ",
+          "dirName": "reduce",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Concepts",
+          "dirName": "concepts",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Callback Functions",
+          "dirName": "callback-functions-continued",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .map() ",
+          "dirName": "map",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .filter() ",
+          "dirName": "filter",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .find()  &  .findIndex() ",
+          "dirName": "find-findindex",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .some()  &  .every() ",
+          "dirName": "some-every",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": " .reduce() ",
+          "dirName": "reduce",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}
