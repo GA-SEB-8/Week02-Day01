@@ -18,6 +18,6 @@
 [1]: ./javascript-array-iterator-methods/
 [2]: ./javascript-array-iterator-methods-lab/
 [3]: ./intro-to-javascript-classes/
-[4]: ./dom-events-lab/
+[4]: ./javascript-classes-lab/
 
 ---
